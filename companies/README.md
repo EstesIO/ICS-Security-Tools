@@ -52,6 +52,7 @@ Note: This list is not actively maintained.
 - [Kenexis](https://www.kenexis.com)
 - [Leidos](https://cyber.leidos.com)
 - [Minerva Labs](https://minerva-labs.com)
+- [Mission Secure](https://missionsecure.com)
 - [Mocana](https://www.mocana.com)
 - [mPrest](https://www.mprest.com)
 - [N-dimension](https://www.n-dimension.com)
